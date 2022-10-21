@@ -1,7 +1,7 @@
 ###  Olá! Eu sou o  Guilherme👋
 
-- 🌱 Estou estudando no Senac...
-- 📫 Contate-me no e-mail: guicosmo37@gmail.com
+- 🌱..
+- 📫 
 - 😄 Pronouns: ele/dele
 <div align="center">
   <a href="https://github.com/GuilhermeCosmoSilva">
